@@ -13,6 +13,6 @@ My name is Manh Nguyen. I am an student at Ho Chi Minh City University Of Techno
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Manh-2k1&repo=Manh-2k1&theme=radical" />
 </a>    
 
-<a href="[https://github.com/Manh-2k1/Manh-2k1](https://github.com/Manh-2k1/07_Thi-t-k-v-m-ph-ng-c-nh-tay-robot-4DoF)">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Manh-2k1&repo=07_Thi-t-k-v-m-ph-ng-c-nh-tay-robot-4DoF&theme=radical" />
+<a href="[https://github.com/Manh-2k1/Manh-2k1](https://github.com/Manh-2k1/DKTM)">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Manh-2k1&repo=DKTM&theme=radical" />
 </a>
