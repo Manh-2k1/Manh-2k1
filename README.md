@@ -14,5 +14,5 @@ My name is Manh Nguyen. I am currently studying in the Faculty of Electrical and
 </a>    
 
 <a href="https://github.com/Manh-2k1/Intelligent-Control-System">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Manh-2k1&repo=DKTMdsdsd&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Manh-2k1&repo=DKTM&theme=radical" />
 </a>
