@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Manh Nguyen. I am currently studying in the Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University Of Technology and Education (HCMUTE), majoring in Control Engineering and Automation Technology. I work as a Robotics and Intelligent Control Lab member in the Department of Automatic Control (RICLAB), Ho Chi Minh University of Technology and Education, Vietnam. My research interests include robotics, parallel robot, nonlinear control, intelligent control and embedded system.<br>
+My name is Manh Nguyen. I am currently studying in the Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University Of Technology and Education (HCMUTE), majoring in Control Engineering and Automation Technology. I work as a Robotics and Intelligent Control Lab (RICLAB) member in the Department of Automatic Control, Ho Chi Minh University of Technology and Education, Vietnam. My research interests include robotics, parallel robot, nonlinear control, intelligent control and embedded system.<br>
 ## 📫 How to reach me: 
 
 
