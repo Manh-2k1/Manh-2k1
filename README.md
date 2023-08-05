@@ -33,3 +33,8 @@ My name is Manh Nguyen. I am currently studying in the Faculty of Electrical and
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Manh-2k1&repo=4-DOF-Robot-Arm&theme=cobalt" />
 </a>
 
+<a href="https://github.com/Manh-2k1/PLC-Project">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Manh-2k1&repo=PLC-Project&theme=synthwave" />
+</a>
+
+
