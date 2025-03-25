@@ -3,7 +3,7 @@ My name is Manh Nguyen. I am currently studying in the Faculty of Electrical and
 ## 📫 How to reach me: 
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/manh-nguyen-2k1/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Manh-2k1) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/c/MạnhDragon)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/manh-2k1/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Manh-2k1) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/c/MạnhDragon)
 
 
 
